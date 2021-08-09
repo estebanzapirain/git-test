@@ -1,3 +1,3 @@
-x = int(input('Ingrese un número'))
+}x = int(input('Ingrese un número'))
 
-print('El doble es',x*2)
+print('El    doble es',x*2)
